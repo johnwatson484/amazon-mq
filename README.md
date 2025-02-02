@@ -1,3 +1,3 @@
-AmazonMQ
+# AmazonMQ
 
 Example of simple AmazonMQ usage.
